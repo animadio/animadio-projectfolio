@@ -1,0 +1,37 @@
+{
+  "name": "animadio-projectfolio",
+  "version": "0.1.0",
+  "description": "Animadio CSS Template - Full use of Animadio Framework - CSS Only",
+  "keywords": [
+    "css",
+    "template",
+    "website",
+    "portfolio",
+    "flexbox",
+    "keyframes",
+    "animation",
+    "variables",
+    "customizability",
+    "reusability",
+    "pure css"
+  ],
+  "license": "MIT",
+  "main": "index.html",
+  "homepage": "https://github.com/Matthias-Geslin/animadio-projectfolio#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthias-Geslin/animadio-projectfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Matthias-Geslin/animadio-projectfolio/issues"
+  },
+  "author": {
+    "name": "Geslin Matthias",
+    "email": "m.geslin974@gmail.com",
+    "url": "https://portfolio.matthias-geslin.fr"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "animadio": "^2.2.0"
+  }
+}
